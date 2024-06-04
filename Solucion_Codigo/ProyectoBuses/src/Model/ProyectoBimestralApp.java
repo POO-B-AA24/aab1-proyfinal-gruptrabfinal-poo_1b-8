@@ -6,9 +6,9 @@ import Controller.*;
 
 public class ProyectoBimestralApp {
 
-    private final String rutaArchivoInfo = "C:\\Users\\pacaa\\OneDrive\\Documentos\\POO\\ProyectoBuses\\documentoInfo.csv";
-    private final String rutaArchivoUbicacion = "C:\\Users\\pacaa\\OneDrive\\Documentos\\POO\\ProyectoBuses\\ubicaciones.csv";
-    private final String rutaArchivoOptimizacion = "C:\\Users\\pacaa\\OneDrive\\Documentos\\POO\\ProyectoBuses\\optimizacion.csv";
+    private final String rutaArchivoInfo = "C:\\Users\\USUARIO\\Documents\\proyecto bimestral\\aab1-proyfinal-gruptrabfinal-poo_1b-8\\Varios\\documentoInfo.csv";
+    private final String rutaArchivoUbicacion = "C:\\Users\\USUARIO\\Documents\\proyecto bimestral\\aab1-proyfinal-gruptrabfinal-poo_1b-8\\Varios\\ubicaciones.csv";
+    private final String rutaArchivoOptimizacion = "C:\\Users\\USUARIO\\Documents\\proyecto bimestral\\aab1-proyfinal-gruptrabfinal-poo_1b-8\\Varios\\optimizacion.csv";
 
     private Ruta[] rutas;
     private Parada[] paradas;
